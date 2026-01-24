@@ -7,6 +7,8 @@ It’s a cloud-hosted web app that I run on my own server. There’s no subscrip
 This repository exists to explain what the project is about and to give people a place to share ideas, feedback, and bugs.  
 **It does not contain the application source code.**
 
+ **Check it out:** https://weaponlog.e-corp.cloud
+
 ---
 
 ## 🎯 What WeaponLog Is
