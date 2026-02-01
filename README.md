@@ -1,6 +1,6 @@
 # WeaponLog
 
-<img width="399" height="290" alt="Image" src="https://github.com/dprauser/weaponlog/blob/main/Dashboard.png" />
+<img width="399" height="290" alt="Image" src="https://github.com/Nuvolares/weaponlog/blob/main/Dashboard.png" />
 
 WeaponLog is a small side project I built for myself to keep track of my firearms, range time, and training progress — and I’m sharing it here in case it’s useful to others with similar needs.
 
