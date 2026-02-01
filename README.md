@@ -47,16 +47,23 @@ WeaponLog is the result of that effort.
 ## ✨ What It Can Do
 
 - 📦 **Inventory**
-  - Firearms, ammo, and accessories
-  - Purchase dates, invoices, notes, and photos
+   - Firearms, ammo, and accessories
+   - Purchase dates, invoices, notes, and photos
+   - Track weapon rentals and associated costs
+   - Membership management with renewal reminder
 
 - 🎯 **Range Sessions**
-  - Log sessions, weapons used, and ammo consumption
-  - Keep a clean history over time
+   - Log sessions, weapons used, and ammo consumption
+   - Upload and analyze target photos
+   - Track shooting distance per target
+   - Keep a clean history over time
 
 - 📊 **Training Progress**
-  - Built with target marking and score tracking in mind
-  - A foundation for seeing improvement over time
+   - Mark hits directly on target photos
+   - Automatic score calculation (bullseye weighting)
+   - Group size measurement with MOA calculation (for distances 100+ yards)
+   - Define aim zones for zone-specific accuracy tracking
+   - Track improvement trends over time
 
 - 👤 **Accounts & Security**
   - Email verification on signup
@@ -71,6 +78,15 @@ WeaponLog is the result of that effort.
   - Dark theme
   - Mobile-friendly
   - Focused on usability
+
+---
+
+### 🎯 Target Analysis
+Upload your target photos and mark your shots directly in the browser. WeaponLog calculates:
+- Hit scores with bullseye weighting
+- Group size in inches or centimeters
+- MOA at longer distances
+- Zone-specific accuracy when using aim zones
 
 ---
 
